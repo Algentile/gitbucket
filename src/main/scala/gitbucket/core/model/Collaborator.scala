@@ -28,6 +28,7 @@ object Role {
   object ADMIN extends Role("ADMIN")
   object DEVELOPER extends Role("DEVELOPER")
   object GUEST extends Role("GUEST")
+  object REVIEWER extends Role("REVIEWER")
 
 //  val values: Vector[Permission] = Vector(ADMIN, WRITE, READ)
 //
